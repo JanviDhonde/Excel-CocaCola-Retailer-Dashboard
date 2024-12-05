@@ -1,0 +1,52 @@
+
+📊 Excited to share the results of the latest data-driven journey!
+
+📍 I'm thrilled to present my recently completed data analysis project, an interactive Coca-Cola USA Retailer Dashboard.
+
+Project Objective:
+The objective of this data analysis project is to analyse sales data for beverage brands within Coca-Cola USA and provide insights into sales performance by retailer. Specifically, the project aims to examine sales trends by beverage brand and retailer, as well as to assess sales and operating profit margin by quarter across all regions for the years 2022 and 2023.
+
+Implementation Highlights:
+🔺 Data Integration and Cleaning
+🔺 Dashboard Design and Visualization by using excel
+🔺 Key insights extraction and recommendations generation
+
+🗂️ Dashboard Highlights:
+
+1. Sales by Beverage Brands (2022 vs 2023):
+
+ - Detailed comparison of sales across different Coca Cola beverage brands.
+
+ - Insightful variance analysis to identify growth trends and performance shifts.
+
+2. Sales by Retailers:
+
+ - Breakdown of sales performance across various retail partners.
+
+ - Highlighting top-performing retailers and potential areas for improvement.
+
+3. Quarterly Sales and Operating Profit Margin:
+
+ - Interactive chart showcasing quarterly sales figures.
+
+ - Visualization of operating profit margins to understand profitability trends.
+
+📊 KPIs Analysed:
+
+ - Total Sales
+
+ - Units Sold
+
+ - Average Price
+
+ - Total Operating Profit
+
+Notable Insights:
+👉 Quarter 3 of 2023 demonstrates exceptional performance for Coca-Cola USA, marked by high sales and operating profit margin.
+👉 Total sales in Quarter 3 reached $2,700,000, indicating robust market demand and effective sales strategies during this period.
+👉 Coca-Cola brand products significantly contributed to sales, with $2,268,975 in revenue, showcasing the brand's strong market presence and consumer preference.
+👉 FizzyCo retailer emerged as a significant contributor, generating sales of $2,101,617, highlighting effective partnerships and distribution channels.
+👉 The average price per unit of $0.45 suggests a balanced pricing strategy, potentially contributing to strong sales figures.
+👉 Total units sold in 2022 and 2023 amounted to 24,788,610, indicating sustained consumer demand for Coca-Cola USA products.
+👉 Total sales of $12,016,665 and total profit of $4,722,497 underscore healthy financial performance and effective cost management.
+👉 Sales were particularly high in the Midwest, Northeast, South, Southeast, and West regions during Quarter 3, emphasizing geographical diversity and market penetration.
