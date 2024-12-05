@@ -51,6 +51,7 @@ The primary goal of this project is to:
 - Development of regional and product-specific sales strategies.
   
 ### 📊 **Dashboard Preview**
+![Coca Cola Retailer Dashboard](https://github.com/JanviDhonde/Excel-CocaCola-Retailer-Dashboard/blob/main/Coca%20Cola%20Retailer%20Dashboard.jpg)
 
 ### 📂 **How to Use the Dashboard**
 1. Clone this repository:
